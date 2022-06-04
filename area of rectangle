@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{
+    int l = 20, b = 30;
+    printf("Area of rectangle is %d", l * b);
+
+    return 0;
+}
